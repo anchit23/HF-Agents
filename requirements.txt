@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+python-dotenv
+ipytest
+sagemaker
+sagemaker[local]
+ipywidgets
